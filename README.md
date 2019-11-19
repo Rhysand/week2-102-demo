@@ -1,2 +1,4 @@
 # week2-102-demo
-In class git workshop demo.
+John Henke
+CSCI 102 - Final Week Demo
+Section A
